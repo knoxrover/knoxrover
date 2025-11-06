@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vinay%20Cheekoti&fontSize=60" />
 </p>
 
-<h3 align="center">Full Stack Software Engineer | Cloud, Microservices & Generative AI Enthusiast</h3>
+<h3 align="center">Inquisite Software Engineer | Cloud, Microservices & Generative AI Enthusiast</h3>
 <p align="center">
-  <strong>Building secure, scalable, and intelligent systems</strong> across health, banking, and energy domains.<br>
+  <strong>Building secure, scalable, and intelligent systems</strong><br>
   <em>Turning complex problems into high-impact solutions.</em>
 </p>
 
